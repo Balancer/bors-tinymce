@@ -1,0 +1,14 @@
+{
+	"name": "bors/tinymce",
+
+	"require": {
+		"fxp/composer-asset-plugin": "*",
+		"bower-asset/tinymce": "*"
+	},
+
+	"autoload": {
+		"psr-4": {
+			"B2\\": "./"
+		}
+	}
+}
